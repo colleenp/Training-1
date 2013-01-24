@@ -2,3 +2,5 @@ git config --global merge.tool p4merge
 git config --global mergetool.p4merge.cmd 'p4merge.exe \"$BASE\" \"$LOCAL\" \"$REMOTE\" \"$MERGED\"'
 
 http://stackoverflow.com/questions/426026/git-on-windows-how-do-you-set-up-a-mergetool
+
+This Belongs to Colleen
